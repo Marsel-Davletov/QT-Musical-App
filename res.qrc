@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/grey-heart.png</file>
+        <file>icons/music.png</file>
+        <file>icons/play.png</file>
+        <file>icons/red-heart.png</file>
+        <file>icons/search_icon.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/three_points.png</file>
+        <file>icons/left.png</file>
+        <file>icons/right.png</file>
+        <file>icons/line-heart.png</file>
+    </qresource>
+</RCC>

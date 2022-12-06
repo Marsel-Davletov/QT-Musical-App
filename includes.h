@@ -1,0 +1,49 @@
+#ifndef INCLUDES_H
+#define INCLUDES_H
+
+#include <QPushButton>
+#include <QObject>
+#include <QLabel>
+#include <QNetworkAccessManager>
+#include <QNetworkReply>
+#include <QMainWindow>
+#include <QMenu>
+#include <QPropertyAnimation>
+#include <QEvent>
+#include <QWidget>
+#include <QMediaPlayer>
+#include <QSlider>
+#include <QMap>
+#include <QGridLayout>
+#include <QTabWidget>
+#include <QLineEdit>
+#include <QJsonObject>
+#include <QJsonDocument>
+#include <QTabBar>
+#include <QStylePainter>
+#include <QStyleOptionTab>
+#include <QPixmap>
+#include <QEvent>
+#include <QHoverEvent>
+#include <QBitmap>
+#include <QPainter>
+
+#include <QApplication>
+#include <QAction>
+#include <QGraphicsEffect>
+#include <QColor>
+#include <QHBoxLayout>
+#include <QVBoxLayout>
+#include <QGridLayout>
+#include <QScrollArea>
+#include <QMenuBar>
+#include <QToolBar>
+#include <QTabWidget>
+#include <QTabBar>
+#include <QMediaPlayer>
+#include <QAudioOutput>
+#include <QTabWidget>
+#include <QThread>
+#include <QButtonGroup>
+
+#endif // INCLUDES_H
